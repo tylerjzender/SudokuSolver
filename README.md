@@ -23,6 +23,7 @@ considered. If this is the only empty position in a subgrid while only
 one digit is not used in that subgrid, it must go in that position.
 
 ![SudokuSolver_InputCapture](https://user-images.githubusercontent.com/77171947/104414913-0596c680-553f-11eb-965c-d36f87eaa25a.JPG)
+
 Figure 1: An example of an input text file representing an incomplete sudoku board
 
 The program prompts the user for the name of a text file to use as an input.
