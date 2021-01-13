@@ -22,7 +22,7 @@ if the rest of the subgrid is filled except for a single spot being
 considered. If this is the only empty position in a subgrid while only 
 one digit is not used in that subgrid, it must go in that position.
 
-![alt text](https://github.com/tylerjzender/SudokuSolver/blob/main/SudokuSolver_InputCapture.JPG?raw=true)
+![SudokuSolver_InputCapture](https://user-images.githubusercontent.com/77171947/104414913-0596c680-553f-11eb-965c-d36f87eaa25a.JPG)
 Figure 1: An example of an input text file representing an incomplete sudoku board
 
 The program prompts the user for the name of a text file to use as an input.
@@ -30,7 +30,7 @@ Inputs are then read in and displayed to the console. The program then 'steps'
 the user through solving the puzzle by prompting them to hit enter to see
 the next digit placement on the board.
 
-![alt text](https://github.com/tylerjzender/SudokuSolver/blob/main/SudokuSolver_OutputCapture.JPG?raw=true)
+![SudokuSolver_OutputCapture](https://user-images.githubusercontent.com/77171947/104414916-062f5d00-553f-11eb-9e8f-6a08409c30fa.JPG)
 Figure 2: The output of the program to the console for the last few steps of completing a sudoku board
 
 This project was originally completed as an assigment for my elective
